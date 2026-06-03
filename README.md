@@ -1,4 +1,4 @@
-# Hi there, I'm Simon Fredrik Karlsson 👋
+# Hi there, I'm Simon 👋
 
 I'm a Computer Science and Engineering Master's student specializing in System-On-Chip/Embedded Systems. While my primary focus is everything within the realm of embedded systems, I thrive on maintaining a wide scope of knowledge that stretches across different domains of software development, including web programming and 3D graphics.
 
